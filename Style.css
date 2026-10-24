@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background: blue;
+    width: 150px;
+}
+button, select{
+    padding: 20px;
+    width:150px;
+    background-color: aliceblue;
+
+}
+button{
+    padding: 20px;
+    width: 150px;
+}
